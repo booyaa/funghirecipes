@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funghi Recipes</title>
+    <atom:link href="https://booyaa.github.io/funghirecipes//feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>https://booyaa.github.io/funghirecipes/</link>
+    <description>A Rust cookbook.</description>
+    <pubDate>Tue, 20 Sep 2016 07:53:00 +0100</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Welcome!</title>
+      <link>https://booyaa.github.io/funghirecipes//articles/welcome/</link>
+      <pubDate>Tue, 20 Sep 2016 07:53:00 +0100</pubDate>
+      <guid isPermaLink="true">https://booyaa.github.io/funghirecipes//articles/welcome/</guid>
+      <author></author>
+      <description>&lt;p&gt;Welcome to “Funghi Recipes” my Rust cookbook! &lt;strong&gt;rimshot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The goal of this site is to deliver a bitesize piece of Rust that you can learn from.&lt;/p&gt;
+&lt;p&gt;My goal is mostly provide you with a code snippet that should run in &lt;a href=&quot;http://integer32.com/&quot;&gt;integer32.com’s&lt;/a&gt; awesome fork of the Rust &lt;a href=&quot;http://play.rust-lang.org/&quot;&gt;playground&lt;/a&gt;. I chose integer32’s fork because they have a few useful crates (packages) at your immediate disposal. That and they’re awesome peoples.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-rust&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;fn&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;main&lt;/span&gt;&lt;/span&gt;() {
+  &lt;span class=&quot;built_in&quot;&gt;println!&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&quot;Hello, world!&quot;&lt;/span&gt;);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a href=&quot;http://play.integer32.com/?gist=03918a86883c2e1e295e9777be64dc2e&quot;&gt;run&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can click the link above to launch the example code in playground.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
